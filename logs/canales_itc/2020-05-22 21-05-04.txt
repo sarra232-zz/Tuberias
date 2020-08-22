@@ -1,0 +1,45 @@
+[2020-05-22 21-13-04] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 21-13-04] [INFO] Intento de conexion #0
+[2020-05-22 21-13-10] [INFO] Conexion Establecida 6 s
+[2020-05-22 21-13-10] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 21-13-12] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-19! +-+-+-+-+-+-+-
+[2020-05-22 21-13-12] [INFO] Ejecutando Query, para la fecha:2020-05-19
+[2020-05-22 21-18-18] [INFO] Consulta Terminada
+[2020-05-22 21-18-18] [INFO] Numero de registros: 780
+[2020-05-22 21-18-18] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 21-18-18] [INFO] Validando Datos
+[2020-05-22 21-18-18] [INFO] El archivo contiene datos
+[2020-05-22 21-18-18] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 21-18-18] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 21-18-19] [INFO] Escribiendo fecha: 2020-05-19 en: canales_bancolombia/canales_itc
+[2020-05-22 21-18-19] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 21-18-20] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-19! +-+-+-+-+-+-+-
+[2020-05-22 21-18-20] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-20! +-+-+-+-+-+-+-
+[2020-05-22 21-18-20] [INFO] Ejecutando Query, para la fecha:2020-05-20
+[2020-05-22 21-22-47] [INFO] Consulta Terminada
+[2020-05-22 21-22-47] [INFO] Numero de registros: 772
+[2020-05-22 21-22-47] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 21-22-47] [INFO] Validando Datos
+[2020-05-22 21-22-47] [INFO] El archivo contiene datos
+[2020-05-22 21-22-47] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 21-22-47] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 21-22-48] [INFO] Escribiendo fecha: 2020-05-20 en: canales_bancolombia/canales_itc
+[2020-05-22 21-22-48] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 21-22-48] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-20! +-+-+-+-+-+-+-
+[2020-05-22 21-22-48] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-21! +-+-+-+-+-+-+-
+[2020-05-22 21-22-48] [INFO] Ejecutando Query, para la fecha:2020-05-21
+[2020-05-22 21-27-41] [INFO] Consulta Terminada
+[2020-05-22 21-27-41] [INFO] Numero de registros: 783
+[2020-05-22 21-27-41] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 21-27-41] [INFO] Validando Datos
+[2020-05-22 21-27-41] [INFO] El archivo contiene datos
+[2020-05-22 21-27-41] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 21-27-41] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 21-27-44] [INFO] Escribiendo fecha: 2020-05-21 en: canales_bancolombia/canales_itc
+[2020-05-22 21-27-44] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 21-27-45] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-21! +-+-+-+-+-+-+-
+[2020-05-22 21-27-45] [INFO] Escribiendo log canales_itc/2020-05-22 21-05-04.txten<Bucket: canales_itc>
+[2020-05-22 21-27-45] [INFO] Ejecuciones exitosas: ['2020-05-19', '2020-05-20', '2020-05-21']
+[2020-05-22 21-27-45] [INFO] Ejecuciones fallidas: []
+[2020-05-22 21-27-45] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 881
+[2020-05-22 21-27-49] [INFO] Escribiendo log canales_itc/2020-05-22 21-05-04.txt en <Bucket: canales_logs>

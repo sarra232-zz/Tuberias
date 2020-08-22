@@ -1,0 +1,6 @@
+[2020-06-15 10-00-28] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-15 10-00-28] [INFO] Intento de conexion #0
+[2020-06-15 10-00-34] [ERROR] Error en Conexion con Impala
+[2020-06-15 10-00-34] [ERROR] Tipo de Excepcion : Error
+[2020-06-15 10-00-34] [ERROR] Mensaje : ('HY000', '[HY000] [Cloudera][DriverSupport] (1170) Unexpected response received from server. Please ensure the server host and port specified for the connection are correct. (1170) (SQLDriverConnect); [HY000] [Cloudera][DriverSupport] (1170) Unexpected response received from server. Please ensure the server host and port specified for the connection are correct. (1170)')
+[2020-06-15 10-00-34] [ERROR] Stack trace : ['File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 180, Func.Name : retry, Message : conn = pyodbc.connect(conn_string, autocommit=True)']

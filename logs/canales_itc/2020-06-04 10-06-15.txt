@@ -1,0 +1,33 @@
+[2020-06-04 10-03-15] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-04 10-03-15] [INFO] Intento de conexion #0
+[2020-06-04 10-03-25] [INFO] Conexion Establecida 10 s
+[2020-06-04 10-03-25] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-06-04 10-03-28] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-06-02! +-+-+-+-+-+-+-
+[2020-06-04 10-03-28] [INFO] Ejecutando Query, para la fecha:2020-06-02
+[2020-06-04 10-08-58] [INFO] Consulta Terminada
+[2020-06-04 10-08-58] [INFO] Numero de registros: 782
+[2020-06-04 10-08-58] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-06-04 10-08-58] [INFO] Validando Datos
+[2020-06-04 10-08-58] [INFO] El archivo contiene datos
+[2020-06-04 10-08-58] [INFO] El archivo contiene los canales en la lista
+[2020-06-04 10-08-58] [INFO] Seleccionando Bucket para escribir
+[2020-06-04 10-08-59] [INFO] Escribiendo fecha: 2020-06-02 en: canales_bancolombia/canales_itc
+[2020-06-04 10-08-59] [INFO] Escribiendo ultima ejecucion
+[2020-06-04 10-08-59] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-06-02! +-+-+-+-+-+-+-
+[2020-06-04 10-08-59] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-06-03! +-+-+-+-+-+-+-
+[2020-06-04 10-08-59] [INFO] Ejecutando Query, para la fecha:2020-06-03
+[2020-06-04 10-09-43] [INFO] Consulta Terminada
+[2020-06-04 10-09-43] [INFO] Numero de registros: 89
+[2020-06-04 10-09-43] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-06-04 10-09-43] [INFO] Validando Datos
+[2020-06-04 10-09-43] [INFO] El archivo contiene datos
+[2020-06-04 10-09-43] [WARNING]El archivo no contiene los canales en la lista
+[2020-06-04 10-09-43] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-06-03! +-+-+-+-+-+-+-
+[2020-06-04 10-09-43] [ERROR] Ejecucion interrumpida, ha ocurrido un error en la fecha:2020-06-03
+[2020-06-04 10-09-43] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-06-03! +-+-+-+-+-+-+-
+[2020-06-04 10-09-43] [INFO] #############################################################################
+[2020-06-04 10-09-43] [INFO] Escribiendo log canales_itc/2020-06-04 10-06-15.txten<Bucket: canales_itc>
+[2020-06-04 10-09-43] [INFO] Ejecuciones exitosas: ['2020-06-02']
+[2020-06-04 10-09-43] [INFO] Ejecuciones fallidas: ['2020-06-03']
+[2020-06-04 10-09-43] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 388
+[2020-06-04 10-09-45] [INFO] Escribiendo log canales_itc/2020-06-04 10-06-15.txt en <Bucket: canales_logs>

@@ -1,0 +1,8 @@
+[2020-06-04 21-22-08] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-04 21-22-08] [INFO] Intento de conexion #0
+[2020-06-04 21-22-14] [INFO] Conexion Establecida 6 s
+[2020-06-04 21-22-14] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-06-04 21-22-16] [INFO] Escribiendo log canales_itc/2020-06-04 21-06-08.txten<Bucket: canales_itc>
+[2020-06-04 21-22-16] [INFO] Ejecuciones exitosas: []
+[2020-06-04 21-22-16] [INFO] Ejecuciones fallidas: []
+[2020-06-04 21-22-16] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 8

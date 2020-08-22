@@ -1,0 +1,11 @@
+[2020-05-22 20-09-29] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 20-09-29] [INFO] Intento de conexion #0
+[2020-05-22 20-09-32] [INFO] Conexion Establecida 4 s
+[2020-05-22 20-09-32] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-05-22 20-09-33] [WARNING]El flujo de canales_fisicos se encuentra actualizado
+[2020-05-22 20-09-33] [ERROR] Ejecucion de canales_fisicos Terminada
+[2020-05-22 20-09-33] [INFO] Escribiendo log canales_fisicos/2020-05-22 20-05-29.txten<Bucket: C:/Users/Willson/Downloads/UdeA/Practicas/Bancolombia/Canales/GIT/canales-bancolombia-master/logs/>
+[2020-05-22 20-09-33] [INFO] Ejecuciones exitosas: []
+[2020-05-22 20-09-33] [INFO] Ejecuciones fallidas: []
+[2020-05-22 20-09-33] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 4
+[2020-05-22 20-09-35] [INFO] Escribiendo log canales_fisicos/2020-05-22 20-05-29.txt en <Bucket: canales_logs>

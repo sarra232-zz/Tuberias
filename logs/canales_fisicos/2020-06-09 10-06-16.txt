@@ -1,0 +1,15 @@
+[2020-06-09 10-01-16] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-09 10-01-16] [INFO] Intento de conexion #0
+[2020-06-09 10-01-19] [INFO] Conexion Establecida 4 s
+[2020-06-09 10-01-19] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-06-09 10-01-20] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-06-08! +-+-+-+-+-+-+-
+[2020-06-09 10-01-20] [INFO] Ejecutando Query, para la fecha:2020-06-08
+[2020-06-09 10-02-37] [ERROR] Error en Ejecución de canales_fisicos fallido
+[2020-06-09 10-02-37] [ERROR] Tipo de Excepcion : OperationalError
+[2020-06-09 10-02-37] [ERROR] Mensaje : ('08S01', '[08S01] [Cloudera][ImpalaODBC] (120) Error while retrieving data from in Impala: [08S01] : ImpalaThriftAPICallFailed (120) (SQLFetch)')
+[2020-06-09 10-02-37] [ERROR] Stack trace : ['File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 227, Func.Name : main, Message : query_result = pd.read_sql(sql.format(year,month,day),cn)', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 406, Func.Name : read_sql, Message : return pandas_sql.read_query(', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 1646, Func.Name : read_query, Message : data = self._fetchall_as_list(cursor)', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 1659, Func.Name : _fetchall_as_list, Message : result = cur.fetchall()']
+[2020-06-09 10-02-38] [INFO] Escribiendo log canales_fisicos/2020-06-09 10-06-16.txten<Bucket: canales_fisicos>
+[2020-06-09 10-02-38] [INFO] Ejecuciones exitosas: []
+[2020-06-09 10-02-38] [INFO] Ejecuciones fallidas: []
+[2020-06-09 10-02-38] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 82
+[2020-06-09 10-02-40] [INFO] Escribiendo log canales_fisicos/2020-06-09 10-06-16.txt en <Bucket: canales_logs>

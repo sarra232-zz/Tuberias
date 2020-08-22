@@ -1,0 +1,11 @@
+[2020-05-22 21-10-59] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 21-10-59] [INFO] Intento de conexion #0
+[2020-05-22 21-11-06] [INFO] Conexion Establecida 6 s
+[2020-05-22 21-11-06] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 21-11-08] [WARNING]El flujo de canales_itc se encuentra actualizado
+[2020-05-22 21-11-08] [ERROR] Ejecucion de canales_itc Terminada
+[2020-05-22 21-11-08] [INFO] Escribiendo log canales_itc/2020-05-22 21-05-59.txten<Bucket: canales_itc>
+[2020-05-22 21-11-08] [INFO] Ejecuciones exitosas: []
+[2020-05-22 21-11-08] [INFO] Ejecuciones fallidas: []
+[2020-05-22 21-11-08] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 9
+[2020-05-22 21-11-10] [INFO] Escribiendo log canales_itc/2020-05-22 21-05-59.txt en <Bucket: canales_logs>

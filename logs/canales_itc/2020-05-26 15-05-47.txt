@@ -1,0 +1,10 @@
+[2020-05-26 15-07-47] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-26 15-07-47] [INFO] Intento de conexion #0
+[2020-05-26 15-07-55] [INFO] Conexion Establecida 9 s
+[2020-05-26 15-07-55] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-26 15-07-59] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-25! +-+-+-+-+-+-+-
+[2020-05-26 15-07-59] [INFO] Ejecutando Query, para la fecha:2020-05-25
+[2020-05-26 15-12-53] [INFO] Escribiendo log canales_itc/2020-05-26 15-05-47.txten<Bucket: canales_itc>
+[2020-05-26 15-12-53] [INFO] Ejecuciones exitosas: []
+[2020-05-26 15-12-53] [INFO] Ejecuciones fallidas: []
+[2020-05-26 15-12-53] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 307

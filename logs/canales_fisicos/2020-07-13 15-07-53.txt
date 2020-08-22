@@ -1,0 +1,11 @@
+[2020-07-13 15-03-53] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-07-13 15-03-53] [INFO] Intento de conexion #0
+[2020-07-13 15-03-56] [INFO] Conexion Establecida 4 s
+[2020-07-13 15-03-56] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-07-13 15-03-57] [WARNING]El flujo de canales_fisicos se encuentra actualizado
+[2020-07-13 15-03-57] [ERROR] Ejecucion de canales_fisicos Terminada
+[2020-07-13 15-03-57] [INFO] Escribiendo log canales_fisicos/2020-07-13 15-07-53.txten<Bucket: canales_fisicos>
+[2020-07-13 15-03-57] [INFO] Ejecuciones exitosas: []
+[2020-07-13 15-03-57] [INFO] Ejecuciones fallidas: []
+[2020-07-13 15-03-57] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 5
+[2020-07-13 15-03-59] [INFO] Escribiendo log canales_fisicos/2020-07-13 15-07-53.txt en <Bucket: canales_logs>

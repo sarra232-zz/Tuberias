@@ -1,0 +1,21 @@
+[2020-05-29 10-06-59] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-29 10-06-59] [INFO] Intento de conexion #0
+[2020-05-29 10-07-04] [INFO] Conexion Establecida 5 s
+[2020-05-29 10-07-04] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-05-29 10-07-06] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-05-29 10-07-06] [INFO] Ejecutando Query, para la fecha:2020-05-28
+[2020-05-29 10-09-20] [INFO] Consulta Terminada
+[2020-05-29 10-09-20] [INFO] Numero de registros: 248
+[2020-05-29 10-09-20] [INFO] Registros Nulos:f_trx           0|canal           0|llave_trx       0|cantidad_trx    0|dtype: int64
+[2020-05-29 10-09-20] [INFO] Validando Datos
+[2020-05-29 10-09-20] [INFO] El archivo contiene datos
+[2020-05-29 10-09-20] [INFO] El archivo contiene los canales en la lista
+[2020-05-29 10-09-20] [INFO] Seleccionando Bucket para escribir
+[2020-05-29 10-09-21] [INFO] Escribiendo fecha: 2020-05-28 en: canales_bancolombia/canales_fisicos
+[2020-05-29 10-09-21] [INFO] Escribiendo ultima ejecucion
+[2020-05-29 10-09-21] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-05-29 10-09-21] [INFO] Escribiendo log canales_fisicos/2020-05-29 10-05-59.txten<Bucket: canales_fisicos>
+[2020-05-29 10-09-21] [INFO] Ejecuciones exitosas: ['2020-05-28']
+[2020-05-29 10-09-21] [INFO] Ejecuciones fallidas: []
+[2020-05-29 10-09-21] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 142
+[2020-05-29 10-09-23] [INFO] Escribiendo log canales_fisicos/2020-05-29 10-05-59.txt en <Bucket: canales_logs>

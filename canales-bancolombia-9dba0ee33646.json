@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "canales-bancolombia",
+  "private_key_id": "9dba0ee33646b5225bc91e80090db2b91e0d7510",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfq0gRrtPfqJT4\nn05GEaLoR/a+423UzqyXthQcfBgI4IDIfPBB9U/YTo4QpkTQdwM7NZbeeKnkLT3L\n6HioOj8fUcYRTZxxapX4eJRG8FG0Oavdp93BNUjhSqbwHSPjNhnZzzDoaA6xvwyn\nFSAW5UcPOx2OPKm1SXv3liOCN0Sb1BDQDurXRfKKCQKp6oWp1SL2nJwxS9aKdACm\noi7EORwvfLeDXdyHna3xtz/59XeOxLgU+EFrQ5wZhx1sxNuu6a/fqdlBfXoIdlaA\n+woKCbl4wbpGhNu7/m+8RwcMvW/RVS09y8we6yYiyhZuYmcJRJMq98bLCeuSazLM\nb/l9wXohAgMBAAECggEAGfjuIbY7D7wn82NSg7JVugwOtpFfKckuqQT8s396F2OR\nf0tXd5s0UD7C/DFXq0NYurZmYqzlEdFMJpGbot3Kq8kM+36Q7qAEYiUXFYz89WCW\nNNmcCFQnFUKj8hYDYu/Hd7cswPlAPqiRodIdZKwKCY+3qI30myEncagyAXoFBoXQ\nKaWafrLhmZtipIJI9ln2B505fgCl2IgzQsOiyAvIB/KWohxH9Zu+QRPuEcxzh6aF\nAFJdL1ErYjm0gCbyFpw5pEicq5cRpwF/LGfGUiBgrh329aL8vVjdOQ/vhmOdLn9l\nF8V44iDTe22tuMZ8NZ0yoSthbvIsHDVzJnmsshOfMwKBgQDLh+V2HK/g9lkUykYj\nqLmesavOoxyZw8TYn3FdC9aWIAmuIU/LbYhxDa+EM2AnYcV1EGyQOfEDsQKHjuyo\niVi+eLWTwQjdRTkCGX5GxqRaCnEnSJIu2MZbOEMAzZ1oDjSSmHd4D5F5DPkoK/lU\nDJgODKc0d90exLn4Wx9E896oTwKBgQDI1LV0GORGUtyydCtzGVPLyvfP/MPc653P\nsaG4KkTppwWp2dy9mKStE23ffaojKMgP7pmn9HmWzUctLnXegisO2uAHZaNlx/Ro\nQQrY8z6w6P+JmaGYboVnNZIQfiJbo9jxycfqXEYUAKsFbAJwb0U36r6jAbelnZ10\nzFUC+VOqjwKBgEh02bCBp+9bY/0twWiCcYpYUAShNtZaxmIj6PSp+Tu6rheKjmCq\nXs94gsp6i7mZafUx4qQ5rF6XDoJ51DBvrOMqD+JI70HumcvwjW7e2rWfUAcfI8N/\nsqXY0qmfiXD41ah2lNluGWjRwIWXmgxc62jdAk2AenywplAPCIPAmbyrAoGAAxxA\nPy8PggNQhbcE4UB4KsTW97KreeVwSUIwBgEplhDPJqVIJOuTSVbusbJpiyfbiVuh\np5dCttIxEwMQMkUD07QSGis5z568K00ulNOXmffR1Vi6xviXOlT7ESRS9eZgusXs\nQbXyI+cqvufAVetzP/1zvGSPapI5WRC9FFG2OQMCgYBfrnmZf3BMGU9Ahyz1cvQY\noRJ5ZAmendHECMUEZEKsWtQDsfcUx5LrMl7h9oCWZ9SyqaiEVDhg42bsm5COUGKD\nwnEdldQYwYP+t1pg7dUkXtuAY1RBbrM/7sxj3CxHElYnyVi/ZH0UCQ55DOUpsBc4\nJEjX0Vm+ie7aNPZ07Vrhhg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyhton-client-canales@canales-bancolombia.iam.gserviceaccount.com",
+  "client_id": "111904736807861901721",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyhton-client-canales%40canales-bancolombia.iam.gserviceaccount.com"
+}

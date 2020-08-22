@@ -1,0 +1,129 @@
+[2020-05-22 14-18-22] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 14-18-22] [INFO] Intento de conexion #0
+[2020-05-22 14-18-27] [INFO] Conexion Establecida 5 s
+[2020-05-22 14-18-27] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 14-18-32] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-03! +-+-+-+-+-+-+-
+[2020-05-22 14-18-32] [INFO] Ejecutando Query, para la fecha:2020-05-03
+[2020-05-22 14-22-30] [INFO] Consulta Terminada
+[2020-05-22 14-22-30] [INFO] Numero de registros: 624
+[2020-05-22 14-22-30] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-22-30] [INFO] Validando Datos
+[2020-05-22 14-22-30] [INFO] El archivo contiene datos
+[2020-05-22 14-22-30] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-22-30] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-22-32] [INFO] Escribiendo fecha: 2020-05-03 en: canales_bancolombia/canales_itc
+[2020-05-22 14-22-32] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-22-32] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-03! +-+-+-+-+-+-+-
+[2020-05-22 14-22-32] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-04! +-+-+-+-+-+-+-
+[2020-05-22 14-22-32] [INFO] Ejecutando Query, para la fecha:2020-05-04
+[2020-05-22 14-27-59] [INFO] Consulta Terminada
+[2020-05-22 14-27-59] [INFO] Numero de registros: 770
+[2020-05-22 14-27-59] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-27-59] [INFO] Validando Datos
+[2020-05-22 14-27-59] [INFO] El archivo contiene datos
+[2020-05-22 14-27-59] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-27-59] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-28-02] [INFO] Escribiendo fecha: 2020-05-04 en: canales_bancolombia/canales_itc
+[2020-05-22 14-28-02] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-28-03] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-04! +-+-+-+-+-+-+-
+[2020-05-22 14-28-03] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-05! +-+-+-+-+-+-+-
+[2020-05-22 14-28-03] [INFO] Ejecutando Query, para la fecha:2020-05-05
+[2020-05-22 14-32-57] [INFO] Consulta Terminada
+[2020-05-22 14-32-57] [INFO] Numero de registros: 770
+[2020-05-22 14-32-57] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-32-57] [INFO] Validando Datos
+[2020-05-22 14-32-57] [INFO] El archivo contiene datos
+[2020-05-22 14-32-57] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-32-57] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-32-59] [INFO] Escribiendo fecha: 2020-05-05 en: canales_bancolombia/canales_itc
+[2020-05-22 14-32-59] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-33-00] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-05! +-+-+-+-+-+-+-
+[2020-05-22 14-33-00] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-06! +-+-+-+-+-+-+-
+[2020-05-22 14-33-00] [INFO] Ejecutando Query, para la fecha:2020-05-06
+[2020-05-22 14-37-15] [INFO] Consulta Terminada
+[2020-05-22 14-37-15] [INFO] Numero de registros: 557
+[2020-05-22 14-37-15] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-37-15] [INFO] Validando Datos
+[2020-05-22 14-37-15] [INFO] El archivo contiene datos
+[2020-05-22 14-37-15] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-37-15] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-37-17] [INFO] Escribiendo fecha: 2020-05-06 en: canales_bancolombia/canales_itc
+[2020-05-22 14-37-17] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-37-17] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-06! +-+-+-+-+-+-+-
+[2020-05-22 14-37-17] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-07! +-+-+-+-+-+-+-
+[2020-05-22 14-37-17] [INFO] Ejecutando Query, para la fecha:2020-05-07
+[2020-05-22 14-42-43] [INFO] Consulta Terminada
+[2020-05-22 14-42-43] [INFO] Numero de registros: 768
+[2020-05-22 14-42-43] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-42-43] [INFO] Validando Datos
+[2020-05-22 14-42-43] [INFO] El archivo contiene datos
+[2020-05-22 14-42-43] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-42-43] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-42-45] [INFO] Escribiendo fecha: 2020-05-07 en: canales_bancolombia/canales_itc
+[2020-05-22 14-42-45] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-42-46] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-07! +-+-+-+-+-+-+-
+[2020-05-22 14-42-46] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-08! +-+-+-+-+-+-+-
+[2020-05-22 14-42-46] [INFO] Ejecutando Query, para la fecha:2020-05-08
+[2020-05-22 14-48-45] [INFO] Consulta Terminada
+[2020-05-22 14-48-45] [INFO] Numero de registros: 775
+[2020-05-22 14-48-45] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-48-45] [INFO] Validando Datos
+[2020-05-22 14-48-45] [INFO] El archivo contiene datos
+[2020-05-22 14-48-45] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-48-45] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-48-47] [INFO] Escribiendo fecha: 2020-05-08 en: canales_bancolombia/canales_itc
+[2020-05-22 14-48-47] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-48-50] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-08! +-+-+-+-+-+-+-
+[2020-05-22 14-48-50] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-09! +-+-+-+-+-+-+-
+[2020-05-22 14-48-50] [INFO] Ejecutando Query, para la fecha:2020-05-09
+[2020-05-22 14-54-38] [INFO] Consulta Terminada
+[2020-05-22 14-54-38] [INFO] Numero de registros: 698
+[2020-05-22 14-54-38] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-54-38] [INFO] Validando Datos
+[2020-05-22 14-54-38] [INFO] El archivo contiene datos
+[2020-05-22 14-54-38] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-54-38] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-54-40] [INFO] Escribiendo fecha: 2020-05-09 en: canales_bancolombia/canales_itc
+[2020-05-22 14-54-40] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-54-40] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-09! +-+-+-+-+-+-+-
+[2020-05-22 14-54-40] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-10! +-+-+-+-+-+-+-
+[2020-05-22 14-54-40] [INFO] Ejecutando Query, para la fecha:2020-05-10
+[2020-05-22 15-00-05] [INFO] Consulta Terminada
+[2020-05-22 15-00-05] [INFO] Numero de registros: 620
+[2020-05-22 15-00-05] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 15-00-05] [INFO] Validando Datos
+[2020-05-22 15-00-05] [INFO] El archivo contiene datos
+[2020-05-22 15-00-05] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 15-00-05] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 15-00-07] [INFO] Escribiendo fecha: 2020-05-10 en: canales_bancolombia/canales_itc
+[2020-05-22 15-00-07] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 15-00-08] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-10! +-+-+-+-+-+-+-
+[2020-05-22 15-00-08] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-11! +-+-+-+-+-+-+-
+[2020-05-22 15-00-08] [INFO] Ejecutando Query, para la fecha:2020-05-11
+[2020-05-22 15-06-51] [INFO] Consulta Terminada
+[2020-05-22 15-06-51] [INFO] Numero de registros: 790
+[2020-05-22 15-06-51] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 15-06-51] [INFO] Validando Datos
+[2020-05-22 15-06-51] [INFO] El archivo contiene datos
+[2020-05-22 15-06-51] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 15-06-51] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 15-06-53] [INFO] Escribiendo fecha: 2020-05-11 en: canales_bancolombia/canales_itc
+[2020-05-22 15-06-53] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 15-06-54] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-11! +-+-+-+-+-+-+-
+[2020-05-22 15-06-54] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-12! +-+-+-+-+-+-+-
+[2020-05-22 15-06-54] [INFO] Ejecutando Query, para la fecha:2020-05-12
+[2020-05-22 15-14-23] [INFO] Consulta Terminada
+[2020-05-22 15-14-23] [INFO] Numero de registros: 765
+[2020-05-22 15-14-23] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 15-14-23] [INFO] Validando Datos
+[2020-05-22 15-14-23] [INFO] El archivo contiene datos
+[2020-05-22 15-14-23] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 15-14-23] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 15-14-23] [ERROR] Error en Ejecución de canales_itc fallido
+[2020-05-22 15-14-23] [ERROR] Tipo de Excepcion : ConnectionError
+[2020-05-22 15-14-23] [ERROR] Mensaje : ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+[2020-05-22 15-14-23] [ERROR] Stack trace : ['File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 230, Func.Name : main, Message : condition = validarDatos( query_result,date_time,bucketFolder,log)', "File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 117, Func.Name : validarDatos, Message : storage_write(date,'canales_bancolombia',filename_for_fileingesttion,table,log)", 'File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 71, Func.Name : storage_write, Message : bucket = client.get_bucket(bucketName)', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\storage\\client.py , Line : 333, Func.Name : get_bucket, Message : bucket.reload(client=self, timeout=timeout)', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\storage\\_helpers.py , Line : 145, Func.Name : reload, Message : api_response = client._connection.api_request(', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\_http.py , Line : 412, Func.Name : api_request, Message : response = self._make_request(', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\_http.py , Line : 276, Func.Name : _make_request, Message : return self._do_request(', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\_http.py , Line : 314, Func.Name : _do_request, Message : return self.http.request(', 'File : C:\\Python38\\lib\\site-packages\\google\\auth\\transport\\requests.py , Line : 446, Func.Name : request, Message : response = super(AuthorizedSession, self).request(', 'File : C:\\Python38\\lib\\site-packages\\requests\\sessions.py , Line : 530, Func.Name : request, Message : resp = self.send(prep, **send_kwargs)', 'File : C:\\Python38\\lib\\site-packages\\requests\\sessions.py , Line : 643, Func.Name : send, Message : r = adapter.send(request, **kwargs)', 'File : C:\\Python38\\lib\\site-packages\\requests\\adapters.py , Line : 498, Func.Name : send, Message : raise ConnectionError(err, request=request)']
+[2020-05-22 15-14-23] [INFO] Ejecuciones exitosas: ['2020-05-03', '2020-05-04', '2020-05-05', '2020-05-06', '2020-05-07', '2020-05-08', '2020-05-09', '2020-05-10', '2020-05-11']
+[2020-05-22 15-14-23] [INFO] Ejecuciones fallidas: []
+[2020-05-22 15-14-25] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 3361
+[2020-05-22 15-14-26] [INFO] Escribiendo log canales_itc/2020-05-22 14-05-22.txt en <Bucket: canales_logs>

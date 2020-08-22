@@ -1,0 +1,20 @@
+[2020-05-22 10-22-06] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 10-22-06] [INFO] Intento de conexion #0
+[2020-05-22 10-22-13] [INFO] Conexion Establecida 8 s
+[2020-05-22 10-22-13] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-05-22 10-22-14] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-21! +-+-+-+-+-+-+-
+[2020-05-22 10-22-14] [INFO] Ejecutando Query, para la fecha:2020-05-21
+[2020-05-22 10-24-07] [INFO] Consulta Terminada
+[2020-05-22 10-24-07] [INFO] Numero de registros: 254
+[2020-05-22 10-24-07] [INFO] Registros Nulos:f_trx           0|canal           0|llave_trx       0|cantidad_trx    0|dtype: int64
+[2020-05-22 10-24-07] [INFO] Validando Datos
+[2020-05-22 10-24-07] [INFO] El archivo contiene datos
+[2020-05-22 10-24-07] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 10-24-07] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 10-24-08] [INFO] Escribiendo fecha: 2020-05-21 en: canales_pruebas/canales_fisicos
+[2020-05-22 10-24-08] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 10-24-09] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-21! +-+-+-+-+-+-+-
+[2020-05-22 10-24-09] [INFO] Escribiendo log canales_fisicos/2020-05-22 10-05-06.txt en <Bucket: canales_logs>
+[2020-05-22 10-24-09] [INFO] Ejecuciones exitosas: ['2020-05-21']
+[2020-05-22 10-24-09] [INFO] Ejecuciones fallidas: []
+[2020-05-22 10-24-11] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 123

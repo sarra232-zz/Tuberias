@@ -1,0 +1,33 @@
+[2020-07-09 12-30-30] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-07-09 12-30-30] [INFO] Intento de conexion #0
+[2020-07-09 12-30-34] [INFO] Conexion Establecida 4 s
+[2020-07-09 12-30-34] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_fisicos! +-+-+-+-+-+-+-
+[2020-07-09 12-30-35] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-07-07! +-+-+-+-+-+-+-
+[2020-07-09 12-30-35] [INFO] Ejecutando Query, para la fecha:2020-07-07
+[2020-07-09 12-33-21] [INFO] Consulta Terminada
+[2020-07-09 12-33-21] [INFO] Numero de registros: 255
+[2020-07-09 12-33-21] [INFO] Registros Nulos:f_trx           0|canal           0|llave_trx       0|cantidad_trx    0|dtype: int64
+[2020-07-09 12-33-21] [INFO] Validando Datos
+[2020-07-09 12-33-21] [INFO] El archivo contiene datos
+[2020-07-09 12-33-21] [INFO] El archivo contiene los canales en la lista
+[2020-07-09 12-33-21] [INFO] Seleccionando Bucket para escribir
+[2020-07-09 12-33-22] [INFO] Escribiendo fecha: 2020-07-07 en: canales_bancolombia/canales_fisicos
+[2020-07-09 12-33-22] [INFO] Escribiendo ultima ejecucion
+[2020-07-09 12-33-22] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-07-07! +-+-+-+-+-+-+-
+[2020-07-09 12-33-22] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-07-08! +-+-+-+-+-+-+-
+[2020-07-09 12-33-22] [INFO] Ejecutando Query, para la fecha:2020-07-08
+[2020-07-09 12-35-09] [INFO] Consulta Terminada
+[2020-07-09 12-35-09] [INFO] Numero de registros: 252
+[2020-07-09 12-35-09] [INFO] Registros Nulos:f_trx           0|canal           0|llave_trx       0|cantidad_trx    0|dtype: int64
+[2020-07-09 12-35-09] [INFO] Validando Datos
+[2020-07-09 12-35-09] [INFO] El archivo contiene datos
+[2020-07-09 12-35-09] [INFO] El archivo contiene los canales en la lista
+[2020-07-09 12-35-09] [INFO] Seleccionando Bucket para escribir
+[2020-07-09 12-35-10] [INFO] Escribiendo fecha: 2020-07-08 en: canales_bancolombia/canales_fisicos
+[2020-07-09 12-35-10] [INFO] Escribiendo ultima ejecucion
+[2020-07-09 12-35-10] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-07-08! +-+-+-+-+-+-+-
+[2020-07-09 12-35-10] [INFO] Escribiendo log canales_fisicos/2020-07-09 12-07-30.txten<Bucket: canales_fisicos>
+[2020-07-09 12-35-10] [INFO] Ejecuciones exitosas: ['2020-07-07', '2020-07-08']
+[2020-07-09 12-35-10] [INFO] Ejecuciones fallidas: []
+[2020-07-09 12-35-10] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 280
+[2020-07-09 12-35-12] [INFO] Escribiendo log canales_fisicos/2020-07-09 12-07-30.txt en <Bucket: canales_logs>

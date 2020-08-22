@@ -1,0 +1,20 @@
+[2020-07-16 15-02-31] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-07-16 15-02-31] [INFO] Intento de conexion #0
+[2020-07-16 15-02-42] [INFO] Conexion Establecida 11 s
+[2020-07-16 15-02-42] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_np_td! +-+-+-+-+-+-+-
+[2020-07-16 15-02-43] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-31! +-+-+-+-+-+-+-
+[2020-07-16 15-02-43] [INFO] Ejecutando Query, para la fecha:2020-05-31
+[2020-07-16 15-03-05] [INFO] Consulta Terminada
+[2020-07-16 15-03-05] [INFO] Numero de registros: 0
+[2020-07-16 15-03-05] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-07-16 15-03-05] [INFO] Validando Datos
+[2020-07-16 15-03-05] [INFO] El archivo no contiene datos
+[2020-07-16 15-03-05] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-31! +-+-+-+-+-+-+-
+[2020-07-16 15-03-05] [ERROR] Ejecucion interrumpida, ha ocurrido un error en la fecha:2020-05-31
+[2020-07-16 15-03-05] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-31! +-+-+-+-+-+-+-
+[2020-07-16 15-03-05] [INFO] #############################################################################
+[2020-07-16 15-03-05] [INFO] Escribiendo log canales_np_td/2020-07-16 15-07-31.txten<Bucket: canales_np_td>
+[2020-07-16 15-03-05] [INFO] Ejecuciones exitosas: []
+[2020-07-16 15-03-05] [INFO] Ejecuciones fallidas: ['2020-05-31']
+[2020-07-16 15-03-05] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 34
+[2020-07-16 15-03-07] [INFO] Escribiendo log canales_np_td/2020-07-16 15-07-31.txt en <Bucket: canales_logs>

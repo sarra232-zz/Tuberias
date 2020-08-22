@@ -1,0 +1,21 @@
+[2020-06-09 15-00-25] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-09 15-00-25] [INFO] Intento de conexion #0
+[2020-06-09 15-00-33] [INFO] Conexion Establecida 8 s
+[2020-06-09 15-00-33] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-06-09 15-00-36] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-06-08! +-+-+-+-+-+-+-
+[2020-06-09 15-00-36] [INFO] Ejecutando Query, para la fecha:2020-06-08
+[2020-06-09 15-01-01] [INFO] Consulta Terminada
+[2020-06-09 15-01-01] [INFO] Numero de registros: 65
+[2020-06-09 15-01-01] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-06-09 15-01-01] [INFO] Validando Datos
+[2020-06-09 15-01-01] [INFO] El archivo contiene datos
+[2020-06-09 15-01-01] [WARNING]El archivo no contiene los canales en la lista
+[2020-06-09 15-01-01] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-06-08! +-+-+-+-+-+-+-
+[2020-06-09 15-01-01] [ERROR] Ejecucion interrumpida, ha ocurrido un error en la fecha:2020-06-08
+[2020-06-09 15-01-01] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-06-08! +-+-+-+-+-+-+-
+[2020-06-09 15-01-01] [INFO] #############################################################################
+[2020-06-09 15-01-01] [INFO] Escribiendo log canales_itc/2020-06-09 15-06-25.txten<Bucket: canales_itc>
+[2020-06-09 15-01-01] [INFO] Ejecuciones exitosas: []
+[2020-06-09 15-01-01] [INFO] Ejecuciones fallidas: ['2020-06-08']
+[2020-06-09 15-01-01] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 37
+[2020-06-09 15-01-03] [INFO] Escribiendo log canales_itc/2020-06-09 15-06-25.txt en <Bucket: canales_logs>

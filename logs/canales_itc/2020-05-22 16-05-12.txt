@@ -1,0 +1,6 @@
+[2020-05-22 16-18-12] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 16-18-12] [INFO] Intento de conexion #0
+[2020-05-22 16-18-18] [INFO] Conexion Establecida 6 s
+[2020-05-22 16-18-18] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 16-18-20] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-21! +-+-+-+-+-+-+-
+[2020-05-22 16-18-20] [INFO] Ejecutando Query, para la fecha:2020-05-21

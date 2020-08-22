@@ -1,0 +1,22 @@
+[2020-05-22 17-20-08] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 17-20-08] [INFO] Intento de conexion #0
+[2020-05-22 17-20-17] [INFO] Conexion Establecida 9 s
+[2020-05-22 17-20-17] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 17-20-58] [ERROR] Error en Ejecución de canales_itc fallido
+[2020-05-22 17-20-58] [ERROR] Tipo de Excepcion : BadGateway
+[2020-05-22 17-20-58] [ERROR] Mensaje : 502 GET https://storage.googleapis.com/storage/v1/b/canales_bookmarks?projection=noAcl: <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 502 (Server Error)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>502.</b> <ins>That’s an error.</ins>
+  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>
+[2020-05-22 17-20-58] [ERROR] Stack trace : ['File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 217, Func.Name : main, Message : datelist = listDatesfromUltimateIngestion(bucketFolder,log)', "File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 88, Func.Name : listDatesfromUltimateIngestion, Message : bucket = client.get_bucket('canales_bookmarks')", 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\storage\\client.py , Line : 333, Func.Name : get_bucket, Message : bucket.reload(client=self, timeout=timeout)', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\storage\\_helpers.py , Line : 145, Func.Name : reload, Message : api_response = client._connection.api_request(', 'File : C:\\Python38\\lib\\site-packages\\google\\cloud\\_http.py , Line : 423, Func.Name : api_request, Message : raise exceptions.from_http_response(response)']
+[2020-05-22 17-20-58] [INFO] Escribiendo log canales_itc2020-05-22 17-05-08encanales_itc
+[2020-05-22 17-20-58] [INFO] Ejecuciones exitosas: []
+[2020-05-22 17-20-58] [INFO] Ejecuciones fallidas: []
+[2020-05-22 17-20-58] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 50

@@ -1,0 +1,41 @@
+[2020-05-22 12-11-19] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-22 12-11-19] [INFO] Intento de conexion #0
+[2020-05-22 12-11-24] [INFO] Conexion Establecida 5 s
+[2020-05-22 12-11-24] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_itc! +-+-+-+-+-+-+-
+[2020-05-22 12-11-26] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-02! +-+-+-+-+-+-+-
+[2020-05-22 12-11-26] [INFO] Ejecutando Query, para la fecha:2020-05-02
+[2020-05-22 12-15-29] [INFO] Consulta Terminada
+[2020-05-22 14-08-42] [INFO] Numero de registros: 701
+[2020-05-22 14-08-42] [INFO] Registros Nulos:f_trx           0|canal           0|trx_1           0|cantidad_trx    0|dtype: int64
+[2020-05-22 14-08-42] [INFO] Validando Datos
+[2020-05-22 14-08-42] [INFO] El archivo contiene datos
+[2020-05-22 14-08-42] [INFO] El archivo contiene los canales en la lista
+[2020-05-22 14-08-42] [INFO] Seleccionando Bucket para escribir
+[2020-05-22 14-08-44] [INFO] Escribiendo fecha: 2020-05-02 en: canales_bancolombia/canales_itc
+[2020-05-22 14-08-44] [INFO] Escribiendo ultima ejecucion
+[2020-05-22 14-08-45] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-02! +-+-+-+-+-+-+-
+[2020-05-22 14-08-45] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-03! +-+-+-+-+-+-+-
+[2020-05-22 14-08-45] [INFO] Ejecutando Query, para la fecha:2020-05-03
+[2020-05-22 14-08-46] [ERROR] Error en Ejecución de canales_itc fallido
+[2020-05-22 14-08-46] [ERROR] Tipo de Excepcion : DatabaseError
+[2020-05-22 14-08-46] [ERROR] Mensaje : Execution failed on sql 'SELECT 
+ CONCAT(CAST(t1.anotrn AS STRING),'-',lpad(CAST(t1.mestrn AS STRING),2,'0') ,'-',lpad(CAST(t1.diatrn AS STRING),2,'0') ) AS f_trx,
+ TRIM(t1.canal) AS canal,
+ TRIM(CONCAT(TRIM(t1.canal),CAST(t1.cdgtrn AS STRING),t1.disposit)) AS trx_1,
+ COUNT(*) AS cantidad_trx
+ FROM s_canales.itc_itclibranl_itcffacmcn_part t1
+ WHERE t1.anotrn = 2020
+ AND lpad(CAST(t1.mestrn AS STRING),2,'0') ='05'
+ AND t1.diatrn = 03
+ AND t1.cdgrpta = 0
+ AND t1.ingestion_year = 2020
+ AND t1.ingestion_month = 05
+ AND t1.ingestion_day = 03
+ GROUP BY 1,2,3
+ ORDER BY f_trx;
+': ('08S01', '[08S01] [Cloudera][ImpalaODBC] (450) Error when calling the Impala Thrift API ExecuteStatement: SSL_write: error code: 0 (450) (SQLExecDirectW)')
+[2020-05-22 14-08-46] [ERROR] Stack trace : ['File : C:\\Users\\Willson\\Downloads\\UdeA\\Practicas\\Bancolombia\\Canales\\GIT\\canales-bancolombia-master\\canales.py , Line : 225, Func.Name : main, Message : query_result = pd.read_sql(sql.format(year,month,day),cn)', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 406, Func.Name : read_sql, Message : return pandas_sql.read_query(', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 1633, Func.Name : read_query, Message : cursor = self.execute(*args)', 'File : C:\\Python38\\lib\\site-packages\\pandas\\io\\sql.py , Line : 1598, Func.Name : execute, Message : raise ex from exc']
+[2020-05-22 14-08-46] [INFO] Ejecuciones exitosas: ['2020-05-02']
+[2020-05-22 14-08-46] [INFO] Ejecuciones fallidas: []
+[2020-05-22 14-08-48] [INFO] ***** Fin de Ejecución del Proceso.  Duración Total(s): 7047
+[2020-05-22 14-08-49] [INFO] Escribiendo log canales_itc/2020-05-22 12-05-19.txt en <Bucket: canales_logs>

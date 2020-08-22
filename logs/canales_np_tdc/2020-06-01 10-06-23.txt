@@ -1,0 +1,42 @@
+[2020-06-01 10-29-23] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-01 10-29-23] [INFO] Intento de conexion #0
+[2020-06-01 10-29-27] [INFO] Conexion Establecida 4 s
+[2020-06-01 10-29-27] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_np_tdc! +-+-+-+-+-+-+-
+[2020-06-01 10-29-28] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-06-01 10-29-28] [INFO] Ejecutando Query, para la fecha:2020-05-28
+[2020-06-01 10-34-26] [INFO] Consulta Terminada
+[2020-06-01 10-34-26] [INFO] Numero de registros: 726
+[2020-06-01 10-34-27] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-06-01 10-34-27] [INFO] Validando Datos
+[2020-06-01 10-34-27] [INFO] El archivo contiene datos
+[2020-06-01 10-34-27] [INFO] Seleccionando Bucket para escribir
+[2020-06-01 10-34-28] [INFO] Escribiendo fecha: 2020-05-28 en: canales_bancolombia/canales_np_tdc
+[2020-06-01 10-34-28] [INFO] Escribiendo ultima ejecucion
+[2020-06-01 10-34-29] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-06-01 10-34-29] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-29! +-+-+-+-+-+-+-
+[2020-06-01 10-34-29] [INFO] Ejecutando Query, para la fecha:2020-05-29
+[2020-06-01 10-35-06] [INFO] Consulta Terminada
+[2020-06-01 10-35-06] [INFO] Numero de registros: 1
+[2020-06-01 10-35-06] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-06-01 10-35-06] [INFO] Validando Datos
+[2020-06-01 10-35-06] [INFO] El archivo contiene datos
+[2020-06-01 10-35-06] [INFO] Seleccionando Bucket para escribir
+[2020-06-01 10-35-06] [INFO] Escribiendo fecha: 2020-05-29 en: canales_bancolombia/canales_np_tdc
+[2020-06-01 10-35-06] [INFO] Escribiendo ultima ejecucion
+[2020-06-01 10-35-07] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-29! +-+-+-+-+-+-+-
+[2020-06-01 10-35-07] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-30! +-+-+-+-+-+-+-
+[2020-06-01 10-35-07] [INFO] Ejecutando Query, para la fecha:2020-05-30
+[2020-06-01 10-35-18] [INFO] Consulta Terminada
+[2020-06-01 10-35-18] [INFO] Numero de registros: 0
+[2020-06-01 10-35-18] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-06-01 10-35-18] [INFO] Validando Datos
+[2020-06-01 10-35-18] [INFO] El archivo no contiene datos
+[2020-06-01 10-35-18] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-30! +-+-+-+-+-+-+-
+[2020-06-01 10-35-18] [ERROR] Ejecucion interrumpida, ha ocurrido un error en la fecha:2020-05-30
+[2020-06-01 10-35-18] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-30! +-+-+-+-+-+-+-
+[2020-06-01 10-35-18] [INFO] #############################################################################
+[2020-06-01 10-35-18] [INFO] Escribiendo log canales_np_tdc/2020-06-01 10-06-23.txten<Bucket: canales_np_tdc>
+[2020-06-01 10-35-18] [INFO] Ejecuciones exitosas: ['2020-05-28', '2020-05-29']
+[2020-06-01 10-35-18] [INFO] Ejecuciones fallidas: ['2020-05-30']
+[2020-06-01 10-35-18] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 355
+[2020-06-01 10-35-19] [INFO] Escribiendo log canales_np_tdc/2020-06-01 10-06-23.txt en <Bucket: canales_logs>

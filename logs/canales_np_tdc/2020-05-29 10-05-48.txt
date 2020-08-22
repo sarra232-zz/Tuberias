@@ -1,0 +1,31 @@
+[2020-05-29 10-09-48] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-05-29 10-09-48] [INFO] Intento de conexion #0
+[2020-05-29 10-09-52] [INFO] Conexion Establecida 4 s
+[2020-05-29 10-09-52] [INFO] +-+-+-+-+-+-+- Inicio Proceso canales_np_tdc! +-+-+-+-+-+-+-
+[2020-05-29 10-09-53] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-27! +-+-+-+-+-+-+-
+[2020-05-29 10-09-53] [INFO] Ejecutando Query, para la fecha:2020-05-27
+[2020-05-29 10-15-29] [INFO] Consulta Terminada
+[2020-05-29 10-15-29] [INFO] Numero de registros: 710
+[2020-05-29 10-15-29] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-05-29 10-15-29] [INFO] Validando Datos
+[2020-05-29 10-15-29] [INFO] El archivo contiene datos
+[2020-05-29 10-15-29] [INFO] Seleccionando Bucket para escribir
+[2020-05-29 10-15-30] [INFO] Escribiendo fecha: 2020-05-27 en: canales_bancolombia/canales_np_tdc
+[2020-05-29 10-15-30] [INFO] Escribiendo ultima ejecucion
+[2020-05-29 10-15-31] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-27! +-+-+-+-+-+-+-
+[2020-05-29 10-15-31] [INFO] +-+-+-+-+-+-+- Inicio proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-05-29 10-15-31] [INFO] Ejecutando Query, para la fecha:2020-05-28
+[2020-05-29 10-15-41] [INFO] Consulta Terminada
+[2020-05-29 10-15-41] [INFO] Numero de registros: 0
+[2020-05-29 10-15-41] [INFO] Registros Nulos:fecha           0|ecoraz          0|cantidad_trx    0|valor_total     0|dtype: int64
+[2020-05-29 10-15-41] [INFO] Validando Datos
+[2020-05-29 10-15-41] [INFO] El archivo no contiene datos
+[2020-05-29 10-15-41] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-05-29 10-15-41] [ERROR] Ejecucion interrumpida, ha ocurrido un error en la fecha:2020-05-28
+[2020-05-29 10-15-41] [INFO] +-+-+-+-+-+-+- Final proceso para la fecha: 2020-05-28! +-+-+-+-+-+-+-
+[2020-05-29 10-15-41] [INFO] #############################################################################
+[2020-05-29 10-15-41] [INFO] Escribiendo log canales_np_tdc/2020-05-29 10-05-48.txten<Bucket: canales_np_tdc>
+[2020-05-29 10-15-41] [INFO] Ejecuciones exitosas: ['2020-05-27']
+[2020-05-29 10-15-41] [INFO] Ejecuciones fallidas: ['2020-05-28']
+[2020-05-29 10-15-41] [INFO] ***** Fin de Ejecucion del Proceso.  Duracion Total(s): 353
+[2020-05-29 10-15-44] [INFO] Escribiendo log canales_np_tdc/2020-05-29 10-05-48.txt en <Bucket: canales_logs>

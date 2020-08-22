@@ -1,0 +1,11 @@
+{
+
+	"comentario1": "Información de Conexión a Impala",
+	"connStr": "Driver=Cloudera ODBC Driver for Impala;Host=Impala.bancolombia.corp;Port=21050;Database=default;AuthMech=3;UseSASL=1;UID=jupduque;PWD=Factory@Data2020;SSL=1;AllowSelfSignedServerCert=1",
+	"verbose": true,
+	"basepath": "canales-bancolombia-master/",
+
+
+	"comentario2": "Información de Log",
+	"pathLog": "C:/Users/Willson/Downloads/UdeA/Practicas/Bancolombia/Canales/GIT/canales-bancolombia-master/logs/"
+}

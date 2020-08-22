@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "transacciones-bancolombia",
+  "private_key_id": "a6b73894e33f22def4717b28d22da652c2135ab0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrCUWE4ctS63t7\nmV70BPS2DBvgcpqBmbAujOchnF7kvVvFTvey2u3bftgQAMsWdsq2MD+TjdqJT4ZZ\n3/28g4GckQbcbsvD8P+EJVO4ubTmKGJbmRXlwAqLdOO00ml7dukqB0urwUO9wnTc\nfalIWiIY08gU31ffvzDw9MfqrG2846pyhqbA1lNOtNG3CBe0y6JKinXzBHe+eEoT\nmOdgB0hjKFHL276X1S23BGd1tDyowQ0VwkYJCBpBRtBT14qQZJfPq99k53i0Ub4r\n2kxepzgtiJhUM+ggMNTB2nGiZwSK5w7bn7UYSQcGp/j8UkPBozII+nURdlvzfu04\nA0vv686XAgMBAAECggEAFILuouJ/Q0j5TJfWktYbUM+/8hlcXSmEvvhn6Zh6qtzo\nqg9v1jO6LcYW/EhUErQZWGMN5NCwwiHW32Vk5RwySYf89ieVaUC4K+1cDn2665Ux\nQoHn5d8zhIj2m+NWAhf/G2q3kPgC+zlcUWsCh6pDh42yY4prW+puYJ9CcGrQWEQU\nvcLmYGNdh9vntr2D4ITFL2+d5JAeXt5KblqzO0VUNX9Rj+RsEOrz+fpusJ+JnzAa\nHEWi7uxBMycCEMXpYRej+SffVh0oOjYEceO+pKFU5aQHPv3DVbuMYz+qByCOSCqQ\nRIz++FcSIChHApCP83Y/2rPXo6Bn3tt0Vpb1HJDp8QKBgQDtyyIH/w383UbGNW2c\nbkrYJBmzi93K2lfrU9Bj6e2jfbebF0FKf3COETaOXbmudeXimc/ifO7cVQXHYQzc\nQQkY2nvlaZLOkvTHgizbiPbpA0Ys4whXjiPDF3azlBozF7q/40zoMO+Too77gXrq\nnsFp44sw8FbN4kAnimPMshlmMQKBgQC4Ian2J5hL6j3eVyNpHYn35BCpQF+pjYtw\n4xZK8yRtFvcWdd69/Xzo1txN9dojZ2M1rUC79k9XDiNz0w0OycuKqGM2a215LcgJ\n/1HMWZcMeYalQb628MY8t1XXZ1ltL5dTej6nZv94ubM6yRwGnTt5lYI2QTSMN+4i\nOvGKGn8nRwKBgQDqp6nNekOzZCiTL+YamDwDTpyOMVeM9ioMb4kVD6MR0t18jlY/\nzcKkbxgHJTY2kuFn26DpP5/2jXBGb97g+syfWfspSCU29I3Y0vyxJ1eAWVrGsMNq\nozlnK6BXVa8E/EWtVgBuoNvKNIAkcIF7RW5Xr9OLV6BRSxND8azKMnYeAQKBgAr8\n/06QSFdncC+/lX5lY+FmO9RN4ieVKdgfxSnN3sOf1jkB6bv+z6B5igYhANaSCeqf\nHzjYVx3D2zvDQYk7Y6kvqVQLDypnIAPwt6nxQsFc0zszdDUoozvmWPoU0dJhP6+c\noPaOf/ptYpPEgqamZXE5Cd9A/ujLQavLRrTOJf5rAoGAeDM95bOH093dDixhji9L\nBBcz8OZwf0NRrDVmaAC0amDzZUQS9tPGP7WX8+aVKcvvd86tsRb4zLhffPL2j/94\nsMRqXGrx8XmqxKpCd4Z8aCZxMwnG9wUAkawBUk06FLLq4Qib3tLnbwgg3WbH7KDo\nHxM4RutC331eqGCFD8yf1Xo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-canales@transacciones-bancolombia.iam.gserviceaccount.com",
+  "client_id": "103779325280432634311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-canales%40transacciones-bancolombia.iam.gserviceaccount.com"
+}

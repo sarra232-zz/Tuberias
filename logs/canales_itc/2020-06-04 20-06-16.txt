@@ -1,0 +1,2 @@
+[2020-06-04 20-39-16] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-06-04 20-39-16] [INFO] Intento de conexion #0

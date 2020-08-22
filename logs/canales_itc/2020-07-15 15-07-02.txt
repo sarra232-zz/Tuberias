@@ -1,0 +1,2 @@
+[2020-07-15 15-00-02] [INFO] +-+-+-+-+-+-+- Inicio Proceso Principal ! +-+-+-+-+-+-+-
+[2020-07-15 15-00-02] [INFO] Intento de conexion #0
